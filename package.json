@@ -1,0 +1,15 @@
+{
+  "name": "one-yellow-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax inspired by atom home page design",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
